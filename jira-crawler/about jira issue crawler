@@ -1,0 +1,4 @@
+this crawler would get almost all the labled data in jira's projects with issuetype of 'Task', 'Sub-Task', 'Bug', 'Epic', 'Story', 'New Feature', 'Improvement'.
+in the sources list you should put tuple in the form of ('project server','project name') 
+output: 
+data of each project would be saved under name of "'your project name'+_issues_data.csv"
