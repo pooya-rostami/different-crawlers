@@ -1,0 +1,6 @@
+this crawler would fetch all the data about commits diff of a repo including changed file names and changed codes
+input:
+	- one thing you should give is your (client_id, client_secret)
+	- other one is (owner, repo) which owner is owner of the repo and repo is name of the repo
+output:
+you will get an .csv file in the form of 'owner_repo_commits_code_diff_data.csv'
