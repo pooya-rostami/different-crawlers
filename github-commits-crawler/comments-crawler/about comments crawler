@@ -1,0 +1,6 @@
+this crawler would fetch all the data about commits comments of a repo including body, creation date, updating date, user login, user id
+input:
+	- one thing you should give is your (client_id, client_secret)
+	- other one is (owner, repo) which owner is owner of the repo and repo is name of the repo
+output:
+you will get an .csv file in the form of 'owner_repo_commits_comments_data.csv'
