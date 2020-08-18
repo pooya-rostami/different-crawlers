@@ -1,0 +1,6 @@
+this crawler would fetch all the data about commits of a repo except their diff and comments
+input:
+	- one thing you should give is your (client_id, client_secret)
+	- other one is (owner, repo) which owner is owner of the repo and repo is name of the repo
+output:
+you will get an .csv file in the form of 'owner_repo_commits_data.csv'
