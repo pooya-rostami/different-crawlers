@@ -1,1 +1,6 @@
-
+this is a crawler that get almost all possible data of issues from repository.
+input:
+	- one thing you should give is your (client_id, client_secret)
+	- other one is (owner, repo) which owner is owner of the repo and repo is name of the repo
+output:
+you would get an .csv file in the form of 'owner_repo_issues_data.csv'
